@@ -59,7 +59,15 @@ class Chain:
             {job_description}
 
             ### INSTRUCTION:
-            You are Phanendra Sai Sree Vinay Alapaka, a software engineer with extensive experience in developing scalable systems, building REST APIs, and working on both frontend and backend technologies. Your job is to write a cold email to the client regarding the job mentioned above, describing how your skills align with their requirements. You should also mention your technical experience in various domains such as cloud, databases, UI development, and backend systems.
+            You are Phanendra Sai Sree Vinay Alapaka, a software engineer with extensive experience in 
+            Results-driven Software Engineer with 5+ years of experience in full-stack development, API optimization,
+            and automation testing. Proficient in .NET Core, React, Angular, and cloud platforms like Azure and 
+            AWS, delivering scalable solutions and improving system performance by up to 40%. Successfully 
+            developed robust Web APIs handling 1M+ daily alerts and built responsive UI components, enhancing 
+            user satisfaction by 30%. Skilled in CI/CD pipelines (Jenkins, GitHub Actions) and 
+            Agile methodologies to ensure efficient project delivery. Holds a Master’s in 
+            Computer Science (GPA 4.0/4.0) and Microsoft Certified: Azure Fundamentals certification, 
+            with a proven track record of delivering innovative, reliable, and high-performance solutions.
 
             Remember you are Phanendra Sai Sree Vinay Alapaka. 
             Do not provide a preamble.

@@ -18,7 +18,7 @@ class Resume:
         Databases & Machine Learning: SQL, PL/SQL, Microsoft SQL Server, MongoDB, PostgreSQL, Scikit-learn, Pandas
         Cloud Platforms: Azure, AWS (S3, Lambda, EC2, RDS), GCP
         Tools & Version Control: Jenkins, JIRA, TortoiseSVN, Git, Bitbucket, Postman, Visual Studio, IntelliJ, Harness, OpenShift
-        Certifications: Microsoft Certified: Azure Fundamenta""",
+        Certifications: Microsoft Certified: Azure Fundamentals""",
 
             "Professional Experience": """Student Assistant, REGARDS Study, UAB, Birmingham, Alabama August 2023 – April 2024
         Developed a patient records management system in ASP.NET Core Web App, enhancing data accuracy and reliability by 30% through real-time updates based on patient profiles, medical histories, survey responses, and real-time health monitoring data.
