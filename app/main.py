@@ -24,7 +24,7 @@ def create_streamlit_app(llm, portfolio, clean_text):
     """, unsafe_allow_html=True)
 
     st.markdown("<div class='title-text'>💼 JobMatch Composer</div>", unsafe_allow_html=True)
-    st.markdown("<p class='small-text'>Generate professional emails tailored to job postings and your resume.</p>", unsafe_allow_html=True)
+    st.markdown("<p class='small-text'>Generate professional emails tailored to job postings based on my resume.</p>", unsafe_allow_html=True)
 
     # Layout: Split UI into two columns
     col1, col2 = st.columns(2)
@@ -39,7 +39,7 @@ def create_streamlit_app(llm, portfolio, clean_text):
 
     with col2:
         st.header("📜 About This Tool")
-        st.info("This tool extracts job details from the URL and helps to compose a mail based on your personal resume.")
+        st.info("This tool extracts job details from the URL and helps to compose a mail based on my resume expertise.")
         st.success("Simple. Fast. Professional.")
     
     # Results Section
